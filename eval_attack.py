@@ -6,7 +6,6 @@ from tqdm import tqdm
 from utils import load_data
 from attack_lib import LinfPGDAttack, L2PGDAttack
 from models import ResNet18, ResNet50, ResNet152, CIFAR_CNN
-import matplotlib.pyplot as plt
 
 def main():
     MODEL_NAME = 'vanilla-cifarcnn'
