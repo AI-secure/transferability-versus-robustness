@@ -1,0 +1,13 @@
+*.tar
+*.pth
+.*.swp
+.*.swo
+*.pdf
+*.pyc
+*.zip
+imagenet_examples/
+saved_data/
+raw_data/
+__pycache__/
+figures/
+tmp/
